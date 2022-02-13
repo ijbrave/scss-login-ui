@@ -1,0 +1,21 @@
+{
+	"name": "scss-login-ui",
+	"version": "1.0.0",
+	"description": "login page created with scss.",
+	"scripts": {
+		"start": "parcel -p 3000 index.html",
+		"build": "parcel build index.html"
+	},
+	"keywords": [
+		"html",
+		"scss",
+		"parcel",
+		"login"
+	],
+	"author": "jbrave",
+	"license": "MIT",
+	"devDependencies": {
+		"@parcel/transformer-sass": "2.3.1",
+		"parcel": "^2.3.1"
+	}
+}
